@@ -1,4 +1,9 @@
 # cryptodemo
-Crypto currency site demo
-Live app fir-7fd3c.firebaseapp.com
+Crypto currency compare site demo
+
+Live app https://cryptoxyz.tk
 Twitter https://twitter.com/gocryptodemo
+
+Sign in details:
+username: bbronge123@gmail.com
+password: verialcapita
